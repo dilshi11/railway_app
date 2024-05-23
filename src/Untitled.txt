@@ -1,0 +1,8 @@
+
+  admin email = dilshi@gmail.com
+  admin password = 123
+
+
+  open admin panel = http://localhost:3000/login-admin;
+
+  open web = http://localhost:3000/
